@@ -1,0 +1,9 @@
+# This file is a placeholder to ensure the 'docs' directory is tracked by Git.
+# You can remove it once you add actual documentation files.
+
+Future documentation may include:
+- Detailed explanation of the characterization methodology.
+- API reference for the modules in `src`.
+- Tutorials on how to use the software.
+- Information on the ML model architecture and training.
+- PC-SAFT parameterization strategies.

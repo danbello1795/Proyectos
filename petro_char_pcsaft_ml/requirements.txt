@@ -1,0 +1,32 @@
+# Python dependencies for the PetroChar PCSAFT ML project
+
+# Core scientific computing
+numpy
+pandas
+scipy
+
+# Machine Learning
+scikit-learn
+
+# For PC-SAFT interaction (if a specific Python library is used)
+sgtpy
+# e.g., pyomo (if used for optimization with PC-SAFT)
+# e.g., a specific PC-SAFT library wrapper if available
+
+# Data handling
+# openpyxl # For reading Excel files if needed
+# pyyaml # For YAML configuration files if needed
+
+# Plotting (optional, for examples or analysis scripts)
+# matplotlib
+# seaborn
+
+# Development and testing
+# pytest
+# pylint
+# black
+# flake8
+
+# Notebooks (if examples are provided as Jupyter notebooks)
+# jupyterlab
+# notebook
