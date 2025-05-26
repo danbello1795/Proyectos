@@ -18,7 +18,7 @@ sgtpy
 # pyyaml # For YAML configuration files if needed
 
 # Plotting (optional, for examples or analysis scripts)
-# matplotlib
+matplotlib
 # seaborn
 
 # Development and testing

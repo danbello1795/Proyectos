@@ -1,4 +1,4 @@
-API_gravity,overall_molecular_weight,T50_boiling_point,pc1_m,pc1_sigma,pc1_epsilon_k,pc2_m,pc2_sigma,pc2_epsilon_k,pc3_m,pc3_sigma,pc3_epsilon_k,pc4_m,pc4_sigma,pc4_epsilon_k,pc5_m,pc5_sigma,pc5_epsilon_k
-35.0,150.5,300.2,1.21,3.31,151.0,2.51,3.61,181.0,4.01,4.01,221.0,6.51,4.41,261.0,9.01,4.81,301.0
-40.2,120.8,250.5,1.15,3.25,145.0,2.45,3.55,175.0,3.95,3.95,215.0,6.45,4.35,255.0,8.95,4.75,295.0
-30.5,180.3,350.8,1.28,3.38,158.0,2.58,3.68,188.0,4.08,4.08,228.0,6.58,4.48,268.0,9.08,4.88,308.0
+API_gravity,overall_molecular_weight,T50_boiling_point,pc1_m,pc1_sigma,pc1_epsilon_k,pc1_mole_fraction,pc1_molar_mass,pc2_m,pc2_sigma,pc2_epsilon_k,pc2_mole_fraction,pc2_molar_mass,pc3_m,pc3_sigma,pc3_epsilon_k,pc3_mole_fraction,pc3_molar_mass,pc4_m,pc4_sigma,pc4_epsilon_k,pc4_mole_fraction,pc4_molar_mass,pc5_m,pc5_sigma,pc5_epsilon_k,pc5_mole_fraction,pc5_molar_mass
+35.0,150.5,300.2,2.81,3.71,231.0,0.30,115.1,4.51,4.01,251.0,0.25,155.1,6.81,4.31,271.0,0.20,200.1,9.51,4.61,291.0,0.15,280.1,13.01,4.91,311.0,0.10,380.1
+40.2,120.8,250.5,2.75,3.65,225.0,0.28,110.5,4.45,3.95,245.0,0.26,150.5,6.75,4.25,265.0,0.22,195.5,9.45,4.55,285.0,0.14,275.5,12.95,4.85,305.0,0.10,375.5
+30.5,180.3,350.8,2.88,3.78,238.0,0.32,120.8,4.58,4.08,258.0,0.24,160.8,6.88,4.38,278.0,0.18,205.8,9.58,4.68,298.0,0.16,285.8,13.08,4.98,318.0,0.10,385.8

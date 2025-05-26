@@ -1,32 +1,42 @@
 [
   {
-    "name": "C1-C4",
-    "m": 1.2,
-    "sigma": 3.3,
-    "epsilon_k": 150.0
+    "name": "C7-C9",
+    "m": 2.8,
+    "sigma": 3.7,
+    "epsilon_k": 230.0,
+    "mole_fraction": 0.30,
+    "molar_mass": 115.0
   },
   {
-    "name": "C5-C7",
-    "m": 2.5,
-    "sigma": 3.6,
-    "epsilon_k": 180.0
-  },
-  {
-    "name": "C8-C12",
-    "m": 4.0,
+    "name": "C10-C12",
+    "m": 4.5,
     "sigma": 4.0,
-    "epsilon_k": 220.0
+    "epsilon_k": 250.0,
+    "mole_fraction": 0.25,
+    "molar_mass": 155.0
   },
   {
-    "name": "C13-C20",
-    "m": 6.5,
-    "sigma": 4.4,
-    "epsilon_k": 260.0
+    "name": "C13-C16",
+    "m": 6.8,
+    "sigma": 4.3,
+    "epsilon_k": 270.0,
+    "mole_fraction": 0.20,
+    "molar_mass": 200.0
   },
   {
-    "name": "C21+",
-    "m": 9.0,
-    "sigma": 4.8,
-    "epsilon_k": 300.0
+    "name": "C17-C22",
+    "m": 9.5,
+    "sigma": 4.6,
+    "epsilon_k": 290.0,
+    "mole_fraction": 0.15,
+    "molar_mass": 280.0
+  },
+  {
+    "name": "C23+",
+    "m": 13.0,
+    "sigma": 4.9,
+    "epsilon_k": 310.0,
+    "mole_fraction": 0.10,
+    "molar_mass": 380.0
   }
 ]
